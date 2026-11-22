@@ -1,0 +1,8 @@
+# XmasSpawn - kam se hráči teleportují při každém připojení
+world: Christmas
+x: -373
+y: 81
+z: -35
+# Natočení hráče (yaw: 0 = jih, 90 = západ, 180 = sever, -90 = východ; pitch: 0 = rovně)
+yaw: 0
+pitch: 0

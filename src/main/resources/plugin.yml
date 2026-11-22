@@ -1,0 +1,7 @@
+name: XmasSpawn
+version: 1.0.0
+main: cz.vanoce.xmasspawn.XmasSpawnPlugin
+api-version: '26.2'
+author: Claude
+description: Při připojení vždy teleportuje hráče do světa Christmas
+softdepend: [Multiverse-Core]
